@@ -57,7 +57,7 @@ Al igual que en la charrería y en los grandes ranchos, creo en el <b>trabajo du
 
 <div align="center">
 
-  <a href="https://github.com/D-a-v-i-d-Vargas/Hackaton-Punto-Adiona"><img src="https://github-stats-extended.vercel.app/api/pin/?username=D-a-v-i-d-Vargas&repo=Hackaton-Punto-Adiona&theme=transparent&hide_border=false&border_color=d9bc9a&title_color=901e28&text_color=4a5163&icon_color=a44936&v=1" /></a> |
+| <a href="https://github.com/D-a-v-i-d-Vargas/Toro-Forrajero-Ecommerce"><img src="https://github-stats-extended.vercel.app/api/pin/?username=D-a-v-i-d-Vargas&repo=Toro-Forrajero-Ecommerce&theme=transparent&hide_border=false&border_color=d9bc9a&title_color=901e28&text_color=4a5163&icon_color=a44936&v=1" /></a> | <a href="https://github.com/D-a-v-i-d-Vargas/Hackaton-Punto-Adiona"><img src="https://github-stats-extended.vercel.app/api/pin/?username=D-a-v-i-d-Vargas&repo=Hackaton-Punto-Adiona&theme=transparent&hide_border=false&border_color=d9bc9a&title_color=901e28&text_color=4a5163&icon_color=a44936&v=1" /></a> |
 | :---: | :---: |
 
 </div>
@@ -66,10 +66,6 @@ Al igual que en la charrería y en los grandes ranchos, creo en el <b>trabajo du
 
 <!-- ESTADÍSTICAS -->
 <h2 align="center">📊 Huellas en el Camino</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=D-a-v-i-d-Vargas&show_icons=true&theme=transparent&title_color=901e28&text_color=4a5163&icon_color=a44936&border_color=d9bc9a&hide_border=false&cache_seconds=1800&v=1" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=D-a-v-i-d-Vargas&theme=transparent&hide_border=false&border=d9bc9a&ring=ae825b&fire=901e28&currStreakLabel=4a5163&sideLabels=4a5163&currStreakNum=901e28&sideNums=901e28&dates=8f9476" alt="GitHub Streak" />
