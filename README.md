@@ -70,7 +70,7 @@ Al igual que en la charrería y en los grandes ranchos, creo en el <b>trabajo du
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com//D-a-v-i-d-Vargas/D-a-v-i-d-Vargasoutput/github-contribution-grid-snake.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com//D-a-v-i-d-Vargas/D-a-v-i-d-Vargas/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/D-a-v-i-d-Vargas/D-a-v-i-d-Vargas/output/github-contribution-grid-snake.svg" alt="Rastro de la serpiente" />
+    <img src="https://raw.githubusercontent.com/D-a-v-i-d-Vargas/D-a-v-i-d-Vargas/output/github-contribution-grid-snake.svg?v=1" alt="Rastro de la serpiente" />
   </picture>
 </p>
 
