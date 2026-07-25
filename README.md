@@ -57,7 +57,7 @@ Al igual que en la charrería y en los grandes ranchos, creo en el <b>trabajo du
 
 <div align="center">
 
-| <a href="https://github.com/D-a-v-i-d-Vargas/Toro-Forrajero-Ecommerce"><img src="https://github-stats-extended.vercel.app/api/pin/?username=D-a-v-i-d-Vargas&repo=Toro-Forrajero-Ecommerce&theme=transparent&hide_border=false&border_color=d9bc9a&title_color=901e28&text_color=4a5163&icon_color=a44936&v=1" /></a> | <a href="https://github.com/D-a-v-i-d-Vargas/Hackaton-Punto-Adiona"><img src="https://github-stats-extended.vercel.app/api/pin/?username=D-a-v-i-d-Vargas&repo=Hackaton-Punto-Adiona&theme=transparent&hide_border=false&border_color=d9bc9a&title_color=901e28&text_color=4a5163&icon_color=a44936&v=1" /></a> |
+  <a href="https://github.com/D-a-v-i-d-Vargas/Hackaton-Punto-Adiona"><img src="https://github-stats-extended.vercel.app/api/pin/?username=D-a-v-i-d-Vargas&repo=Hackaton-Punto-Adiona&theme=transparent&hide_border=false&border_color=d9bc9a&title_color=901e28&text_color=4a5163&icon_color=a44936&v=1" /></a> |
 | :---: | :---: |
 
 </div>
