@@ -1,12 +1,12 @@
 <!-- BANNER TEMÁTICO: Reemplaza este enlace con la URL de tu imagen en Figma (1000x250) -->
 <p align="center">
   <picture>
-    <img src="https://via.placeholder.com/1000x250/a44936/ffffff?text=Tu+Banner+Estilo+Yellowstone+Aqui" alt="Banner" width="100%">
+    <img src="https://via.placeholder.com/1000x250/a44936/ffffff?text=Tu+Banner+Estilo+Yellowstone+Aqui" alt="Banner David Vargas" width="100%">
   </picture>
 </p>
 
 <h1 align="center">
-  Hola, soy <span style="color:#901e28;"> David Vargas </span> 🐎
+  Hola, soy <span style="color:#901e28;">David Vargas</span> 🐎
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/david-vargas-3700951bb/?locale=es-ES"><img src="https://img.shields.io/badge/LinkedIn-4a5163?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/david-vargas-3700951bb/?locale=es-ES"><img src="https://img.shields.io/badge/LinkedIn-4a5163?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:d.vargas011@ebc.edu.mx"><img src="https://img.shields.io/badge/Email-a44936?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -36,30 +36,20 @@ Al igual que en la charrería y en los grandes ranchos, creo en el <b>trabajo du
 
 <h2 align="center">🛠️ Las Herramientas del Rancho (Tech Stack)</h2>
 
-<p align="center">
-  <b>El Lienzo (Frontend)</b><br>
-  <img src="https://img.shields.io/badge/HTML5-a44936?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/JavaScript-d9bc9a?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/Figma-8f9476?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
-<p align="center">
-  <b>El Motor (Backend & Datos)</b><br>
-  <img src="https://img.shields.io/badge/Java-901e28?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-4a5163?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MySQL-ae825b?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-<p align="center">
-  <b>Gestión & Seguridad (El Terreno)</b><br>
-  <img src="https://img.shields.io/badge/Jira-4a5163?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Ciberseguridad-(Aprendiendo)-8f9476?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Ciberseguridad" />
-</p>
+<div align="center">
+
+| 🎨 El Lienzo (Frontend) | ⚙️ El Motor (Backend & Datos) | 🛡️ El Terreno (Gestión & Seguridad) |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/HTML5-a44936?style=for-the-badge&logo=html5&logoColor=white" /><br/><img src="https://img.shields.io/badge/JavaScript-d9bc9a?style=for-the-badge&logo=javascript&logoColor=black" /><br/><img src="https://img.shields.io/badge/Figma-8f9476?style=for-the-badge&logo=figma&logoColor=white" /> | <img src="https://img.shields.io/badge/Java-901e28?style=for-the-badge&logo=openjdk&logoColor=white" /><br/><img src="https://img.shields.io/badge/Python-4a5163?style=for-the-badge&logo=python&logoColor=white" /><br/><img src="https://img.shields.io/badge/MySQL-ae825b?style=for-the-badge&logo=mysql&logoColor=white" /> | <img src="https://img.shields.io/badge/Jira-4a5163?style=for-the-badge&logo=jira&logoColor=white" /><br/><img src="https://img.shields.io/badge/Ciberseguridad-8f9476?style=for-the-badge&logo=tryhackme&logoColor=white" /> |
+
+</div>
 
 <br>
 
 <h2 align="center">📊 Huellas en el Camino</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_GITHUB]&show_icons=true&theme=transparent&title_color=901e28&text_color=4a5163&icon_color=a44936&border_color=d9bc9a&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=D-a-v-i-d-Vargas&show_icons=true&theme=transparent&title_color=901e28&text_color=4a5163&icon_color=a44936&border_color=d9bc9a&hide_border=false" alt="GitHub Stats" />
 </p>
 
 <br>
@@ -68,9 +58,9 @@ Al igual que en la charrería y en los grandes ranchos, creo en el <b>trabajo du
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com//D-a-v-i-d-Vargas/D-a-v-i-d-Vargasoutput/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com//D-a-v-i-d-Vargas/D-a-v-i-d-Vargas/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/D-a-v-i-d-Vargas/D-a-v-i-d-Vargas/output/github-contribution-grid-snake.svg?" alt="Rastro de la serpiente" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D-a-v-i-d-Vargas/D-a-v-i-d-Vargas/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D-a-v-i-d-Vargas/D-a-v-i-d-Vargas/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/D-a-v-i-d-Vargas/D-a-v-i-d-Vargas/output/github-contribution-grid-snake.svg" alt="Rastro de la serpiente" />
   </picture>
 </p>
 
