@@ -49,12 +49,10 @@ Al igual que en la charrería y en los grandes ranchos, creo en el <b>trabajo du
 <h2 align="center">📊 Huellas en el Camino</h2>
 
 <p align="center">
-  <!-- Estadísticas Generales (Forzado a minúsculas para evitar caídas de la API) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=d-a-v-i-d-vargas&show_icons=true&theme=transparent&title_color=901e28&text_color=4a5163&icon_color=a44936&border_color=d9bc9a&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=d-a-v-i-d-va<img src="https://github-readme-stats.vercel.app/api?username=d-a-v-i-d-vargas&show_icons=true&theme=transparent&title_color=901e28&text_color=4a5163&icon_color=a44936&border_color=d9bc9a&hide_border=false&cache_seconds=1800&v=1" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <!-- Racha de Trabajo (Servidor de alta disponibilidad y colores temáticos) -->
   <img src="https://streak-stats.demolab.com?user=d-a-v-i-d-vargas&theme=transparent&hide_border=false&border=d9bc9a&ring=ae825b&fire=901e28&currStreakLabel=4a5163&sideLabels=4a5163&currStreakNum=901e28&sideNums=901e28&dates=8f9476" alt="GitHub Streak" />
 </p>
 
