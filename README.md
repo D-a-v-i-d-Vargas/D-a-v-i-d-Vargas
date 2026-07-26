@@ -4,29 +4,29 @@
 </p>
 
 <h1 align="center">
-  Hola, soy <span style="color:#901e28;">David Vargas</span> 🐎
+  Hi, I'm <span style="color:#901e28;">David Vargas</span> 🐎
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&size=24&duration=4000&pause=1000&color=901e28&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Experto+en+Customer+Experience+(6%2B+A%C3%B1os);Construyendo+SaaS+intuitivos;Amante+del+c%C3%B3digo+limpio+y+las+interfaces+simples"/>
+<img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&size=24&duration=4000&pause=1000&color=901e28&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;6%2B+Years+in+Customer+Experience;Building+Intuitive+SaaS;Clean+Code+%26+Secure+Architectures"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/david-vargas-3700951bb/?locale=es-ES"><img src="https://img.shields.io/badge/LinkedIn-4a5163?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/david-vargas-3700951bb/"><img src="https://img.shields.io/badge/LinkedIn-4a5163?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:d.vargas011@ebc.edu.mx"><img src="https://img.shields.io/badge/Email-a44936?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <br>
 
-<!-- SOBRE MÍ / FILOSOFÍA -->
-<h2 align="center">🌵 Mi Filosofía: Del Customer Service al Código</h2>
+<!-- ABOUT ME / PHILOSOPHY -->
+<h2 align="center">🌵 Philosophy: From Customer Service to Code</h2>
 
 <table align="center">
 <tr>
 <td width="100%" valign="top">
-Después de dominar el arte del <b>Customer Service y Customer Experience durante más de 6 años</b>, descubrí algo fundamental: <i>el mejor servicio al cliente comienza con un software que no frustre al usuario.</i><br><br>
-Hice la transición a <b>Full Stack Developer</b> con un objetivo claro: <b>construir el SaaS que las compañías necesitan para revolucionar su atención al cliente.</b> Ensillo mi caballo todos los días pensando en interfaces simples, flujos lógicos y sistemas robustos que atrapen al usuario desde el primer clic.<br><br>
-Al igual que en la charrería y en los grandes ranchos, creo en el <b>trabajo duro, el legado y la elegancia en la ejecución.</b>
+After mastering <b>Customer Service and Customer Experience for over 6 years</b>, I uncovered a fundamental truth: <i>great customer service begins with software that doesn't frustrate the user.</i><br><br>
+I transitioned into <b>Full Stack Development</b> with a precise objective: <b>building the SaaS applications companies need to revolutionize customer interaction.</b> I approach software engineering with a focus on simple interfaces, logical workflows, robust backend systems, and secure execution from the first click.<br><br>
+Bridging my operational background with modern web technologies and a foundational roadmap toward <b>cybersecurity and pentesting</b>, I ensure that the user experience is always backed by resilient, impenetrable architectures.
 </td>
 </tr>
 </table>
@@ -34,13 +34,13 @@ Al igual que en la charrería y en los grandes ranchos, creo en el <b>trabajo du
 <br>
 
 <!-- TECH STACK -->
-<h2 align="center">🛠️ Las Herramientas del Rancho (Tech Stack)</h2>
+<h2 align="center">🛠️ The Tech Stack</h2>
 
 <div align="center">
 
-| 🎨 El Lienzo (Frontend) | ⚙️ El Motor (Backend & Datos) | 🛡️ El Terreno (Gestión & Seguridad) |
+| 🎨 Frontend | ⚙️ Backend & Data | 🛡️ Management & Security |
 | :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/HTML5-a44936?style=for-the-badge&logo=html5&logoColor=white" /><br/><img src="https://img.shields.io/badge/JavaScript-d9bc9a?style=for-the-badge&logo=javascript&logoColor=black" /><br/><img src="https://img.shields.io/badge/Figma-8f9476?style=for-the-badge&logo=figma&logoColor=white" /> | <img src="https://img.shields.io/badge/Java-901e28?style=for-the-badge&logo=openjdk&logoColor=white" /><br/><img src="https://img.shields.io/badge/Python-4a5163?style=for-the-badge&logo=python&logoColor=white" /><br/><img src="https://img.shields.io/badge/MySQL-ae825b?style=for-the-badge&logo=mysql&logoColor=white" /> | <img src="https://img.shields.io/badge/Jira-4a5163?style=for-the-badge&logo=jira&logoColor=white" /><br/><img src="https://img.shields.io/badge/Ciberseguridad-8f9476?style=for-the-badge&logo=tryhackme&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/HTML5-a44936?style=for-the-badge&logo=html5&logoColor=white" /><br/><img src="https://img.shields.io/badge/JavaScript-d9bc9a?style=for-the-badge&logo=javascript&logoColor=black" /><br/><img src="https://img.shields.io/badge/Figma-8f9476?style=for-the-badge&logo=figma&logoColor=white" /> | <img src="https://img.shields.io/badge/Java-901e28?style=for-the-badge&logo=openjdk&logoColor=white" /><br/><img src="https://img.shields.io/badge/Python-4a5163?style=for-the-badge&logo=python&logoColor=white" /><br/><img src="https://img.shields.io/badge/MySQL-ae825b?style=for-the-badge&logo=mysql&logoColor=white" /> | <img src="https://img.shields.io/badge/Jira-4a5163?style=for-the-badge&logo=jira&logoColor=white" /><br/><img src="https://img.shields.io/badge/Cybersecurity-8f9476?style=for-the-badge&logo=tryhackme&logoColor=white" /> |
 
 </div>
 
@@ -48,11 +48,11 @@ Al igual que en la charrería y en los grandes ranchos, creo en el <b>trabajo du
 
 <hr style="border: 1px solid #ae825b;">
 
-<!-- PROYECTOS DESTACADOS -->
-<h2 align="center">🤠 Proyectos Destacados (Top Featured Projects)</h2>
+<!-- FEATURED PROJECTS -->
+<h2 align="center">🤠 Featured Projects</h2>
 
 <p align="center">
-  <i>Aquí una muestra de las soluciones digitales que he construido, combinando arquitectura robusta, enfoque CX e interfaces intuitivas.</i>
+  <i>A showcase of digital solutions built by combining robust architectures, a CX mindset, and intuitive interfaces.</i>
 </p>
 
 <div align="center">
@@ -64,8 +64,8 @@ Al igual que en la charrería y en los grandes ranchos, creo en el <b>trabajo du
 
 <br>
 
-<!-- ESTADÍSTICAS -->
-<h2 align="center">📊 Huellas en el Camino</h2>
+<!-- STATS -->
+<h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=D-a-v-i-d-Vargas&theme=transparent&hide_border=false&border=d9bc9a&ring=ae825b&fire=901e28&currStreakLabel=4a5163&sideLabels=4a5163&currStreakNum=901e28&sideNums=901e28&dates=8f9476" alt="GitHub Streak" />
@@ -73,20 +73,20 @@ Al igual que en la charrería y en los grandes ranchos, creo en el <b>trabajo du
 
 <br>
 
-<!-- GRÁFICO DE SERPIENTE -->
-<h2 align="center">🐍 El Rastro en la Tierra (Contribution Graph)</h2>
+<!-- CONTRIBUTION SNAKE -->
+<h2 align="center">🐍 Contribution Graph</h2>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D-a-v-i-d-Vargas/D-a-v-i-d-Vargas/output/github-contribution-grid-snake.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D-a-v-i-d-Vargas/D-a-v-i-d-Vargas/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/D-a-v-i-d-Vargas/D-a-v-i-d-Vargas/output/github-contribution-grid-snake.svg" alt="Rastro de la serpiente" />
+    <img src="https://raw.githubusercontent.com/D-a-v-i-d-Vargas/D-a-v-i-d-Vargas/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   </picture>
 </p>
 
 <br>
 
 <p align="center">
-  <i>"El mejor código es como un buen lazo: preciso, resistente y va directo al objetivo."</i> 🤠<br>
-  <b>Abierto a colaboraciones. ¡Hagamos equipo!</b>
+  <i>"Clean code is like a well-built system: precise, resilient, and focused entirely on the objective."</i> 🤠<br>
+  <b>Open to collaborations. Let's build together!</b>
 </p>
