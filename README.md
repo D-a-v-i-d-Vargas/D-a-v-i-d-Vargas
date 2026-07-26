@@ -1,6 +1,6 @@
 <!-- BANNER SUPERIOR -->
 <p align="center">
-  <img src="https://via.placeholder.com/1000x250/a44936/ffffff?text=David+Vargas+%7C+Full+Stack+Developer" alt="Banner David Vargas" width="100%">
+  <img src="./assets/Banner.png" alt="Banner David Vargas" width="100%">
 </p>
 
 <h1 align="center">
@@ -87,6 +87,6 @@ Bridging my operational background with modern web technologies and a foundation
 <br>
 
 <p align="center">
-  <i>"Clean code is like a well-built system: precise, resilient, and focused entirely on the objective."</i> 🤠<br>
+  <i>"In code as on the ranch, true craftsmanship demands discipline, clean execution, and systems built to last."</i> <br>
   <b>Open to collaborations. Let's build together!</b>
 </p>
