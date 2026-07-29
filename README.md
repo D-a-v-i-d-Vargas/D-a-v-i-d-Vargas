@@ -68,7 +68,7 @@ Bridging my operational background with modern web technologies and a foundation
 <h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=D-a-v-i-d-Vargas&theme=transparent&hide_border=false&border=d9bc9a&ring=ae825b&fire=901e28&currStreakLabel=4a5163&sideLabels=4a5163&currStreakNum=901e28&sideNums=901e28&dates=8f9476" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D-a-v-i-d-Vargas&bg_color=00000000&color=901e28&line=ae825b&point=d9bc9a&area=true&hide_border=false&border=d9bc9a" alt="GitHub Activity Graph" />
 </p>
 
 <br>
